@@ -5,8 +5,10 @@ My Covid Slot Booking Application
 Admin : admin
 Password : Test@123
 Downlaod above files and store it in a folder and place it in xamp/htdocs  folder
-Install xamp and open localhost/phpadmin
-then import the covidtmsdb.sql with database "covidtmsdb"
+                                                                                                                                             Install xamp and open localhost/phpadmin
+                                                                                                                                             
+                                                                                                                                             
+then import the covidtmsdb.sql with database "covidtmsdb"                                            
 then open localhost/covid-vbs/index.php
 
 ![Screenshot (234)](https://github.com/shubhamsingh9554/Covid_VBS.github.io/assets/87975363/0cbe1a0a-37f6-4bdb-b129-5a6c04003fe0)
