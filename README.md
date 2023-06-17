@@ -1,7 +1,7 @@
 # Covid_VBS.github.io
 My Covid Slot Booking Application
 
-
+File : covidtmsdb.sql is for Database Management Backend
 Admin : admin
 Password : Test@123
 Downlaod above files and store it in a folder and place it in xamp/htdocs  folder
